@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "projects/rs-ts",
+    "projects/wcp-rs",
+    "projects/lol-html",
+    "projects/tokio/examples",
+]

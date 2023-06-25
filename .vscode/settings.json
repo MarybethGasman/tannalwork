@@ -1,0 +1,22 @@
+{
+    "search.useIgnoreFiles": false,
+    "java.project.sourcePaths": [
+        "${workspaceFolder}/projects/somej",
+        "projects/somej"
+    ],
+    "files.exclude": {
+        "**/*.vo": true,
+        "**/*.vok": true,
+        "**/*.vos": true,
+        "**/*.aux": true,
+        "**/*.glob": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "cmake.sourceDirectory": "/home/ubuntu/tannalwork/projects/modern-c",
+    "deno.enable": false,
+}
